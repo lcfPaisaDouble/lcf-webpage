@@ -9,6 +9,7 @@ from dash_bootstrap_templates import load_figure_template
 
 # Initializing App
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+server = app.server
 
 # Read Trade Log to Pandas
 tradeLog = pd.read_csv('tradeLog.log')
