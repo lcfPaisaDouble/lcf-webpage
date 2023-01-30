@@ -18,6 +18,13 @@ tradeLog = tradeLog.iloc[::-1]  # Inverting the dataframe
 app.title = 'LCF'
 app.layout = dbc.Container([
 
+    dbc.Row([
+        dbc.Col([
+            html.H1("LCF\N{Rocket} |", style={'display': 'inline-block'}),
+            html.H3("TO THE MOON", style={'display': 'inline-block', 'padding-left': '15px'}),
+        ], style={'text-align': 'center'})
+    ]),
+
     # Dropdown for Ticker and Indicators
     dbc.Row([
         dbc.Col([
