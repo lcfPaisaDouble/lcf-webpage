@@ -1,0 +1,234 @@
+2022-08-08 20:01:05 INFO Buying ETHUSD with account balance 549.6238 for qty 0.309 in binance
+2022-08-18 21:31:05 INFO Selling ETHUSD for qty 0.309
+2022-09-05 11:01:05 ERROR ERROR while buy order of ticker ETHUSD with account balance 557.5077. Platform binance
+2022-09-10 20:48:08 INFO Buying ETHUSD with account balance 557.5077 for qty 0.314 in binance
+2022-09-14 10:01:06 INFO Selling ETHUSD for qty 0.313
+2022-09-14 20:01:10 INFO BUY: ETHUSD at Ticker Price: 1631.88 for Qty: 0.306 at Transaction Value: 500.1972 on binance
+2022-09-15 20:01:05 INFO SELL: ETHUSD at Ticker Price: 1472.64 for Qty: 0.305 at Transaction Value: 497.7539 on binance
+2022-10-07 22:29:27 INFO BUYETHUSD at Ticker Price: 1334.24. Ticker Qty: 0.335 at Transaction Value: 447.4384 on binance
+2022-10-09 11:31:09 INFO SELLETHUSD at Ticker Price: 1325.05. Ticker Qty: 0.334 at Transaction Value: 445.7512 on binance
+2022-10-09 21:01:10 INFO BUYETHUSD at Ticker Price: 1336.8. Ticker Qty: 0.329 at Transaction Value: 441.1437 on binance
+2022-10-10 13:01:50 ERROR ERROR while sell order of ticker TQQQ with account balance 501. Platform alpaca
+2022-10-10 13:01:50 ERROR Retrying order execution......1
+2022-10-10 13:01:53 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
+2022-10-10 13:01:53 ERROR Retrying order execution......2
+2022-10-10 13:01:57 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
+2022-10-10 13:01:57 ERROR Retrying order execution......3
+2022-10-10 20:01:11 INFO SELLETHUSD at Ticker Price: 1287.03. Ticker Qty: 0.328 at Transaction Value: 438.7223 on binance
+2022-10-13 22:01:11 INFO BUYETHUSD at Ticker Price: 1327.26. Ticker Qty: 0.317 at Transaction Value: 420.8130 on binance
+2022-10-14 20:01:14 INFO SELLETHUSD at Ticker Price: 1296.97. Ticker Qty: 0.316 at Transaction Value: 419.3381 on binance
+2022-10-22 07:01:10 INFO BUYETHUSD at Ticker Price: 1304.81. Ticker Qty: 0.313 at Transaction Value: 408.5046 on binance
+2022-11-08 10:31:11 INFO SELLETHUSD at Ticker Price: 1431.25. Ticker Qty: 0.312 at Transaction Value: 407.1835 on binance
+2022-11-24 02:01:10 INFO BUYETHUSD at Ticker Price: 1211.89. Ticker Qty: 0.367 at Transaction Value: 445.0503 on binance
+2022-11-24 19:01:10 INFO SELLETHUSD at Ticker Price: 1202.09. Ticker Qty: 0.366 at Transaction Value: 444.2104 on binance
+2022-11-28 09:31:14 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 09:31:14 ERROR Retrying order execution......1
+2022-11-28 09:31:18 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 09:31:18 ERROR Retrying order execution......2
+2022-11-28 09:31:21 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 09:31:21 ERROR Retrying order execution......3
+2022-11-28 10:01:16 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:01:16 ERROR Retrying order execution......1
+2022-11-28 10:01:19 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:01:19 ERROR Retrying order execution......2
+2022-11-28 10:01:23 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:01:23 ERROR Retrying order execution......3
+2022-11-28 10:31:15 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:31:15 ERROR Retrying order execution......1
+2022-11-28 10:31:19 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:31:19 ERROR Retrying order execution......2
+2022-11-28 10:31:22 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 10:31:22 ERROR Retrying order execution......3
+2022-11-28 11:01:14 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:01:14 ERROR Retrying order execution......1
+2022-11-28 11:01:18 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:01:18 ERROR Retrying order execution......2
+2022-11-28 11:01:21 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:01:21 ERROR Retrying order execution......3
+2022-11-28 11:15:23 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:15:23 ERROR Retrying order execution......1
+2022-11-28 11:15:26 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:15:26 ERROR Retrying order execution......2
+2022-11-28 11:15:30 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:15:30 ERROR Retrying order execution......3
+2022-11-28 11:31:15 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:31:15 ERROR Retrying order execution......1
+2022-11-28 11:31:19 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:31:19 ERROR Retrying order execution......2
+2022-11-28 11:31:22 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:31:22 ERROR Retrying order execution......3
+2022-11-28 11:47:42 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:47:42 ERROR Retrying order execution......1
+2022-11-28 11:47:46 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:47:46 ERROR Retrying order execution......2
+2022-11-28 11:47:49 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:47:49 ERROR Retrying order execution......3
+2022-11-28 11:58:10 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:58:10 ERROR Retrying order execution......1
+2022-11-28 11:58:13 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:58:13 ERROR Retrying order execution......2
+2022-11-28 11:58:17 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 11:58:17 ERROR Retrying order execution......3
+2022-11-28 12:01:50 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:01:50 ERROR Retrying order execution......1
+2022-11-28 12:01:54 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:01:54 ERROR Retrying order execution......2
+2022-11-28 12:01:57 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:01:57 ERROR Retrying order execution......3
+2022-11-28 12:03:53 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:03:53 ERROR Retrying order execution......1
+2022-11-28 12:03:56 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:03:56 ERROR Retrying order execution......2
+2022-11-28 12:03:59 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:03:59 ERROR Retrying order execution......3
+2022-11-28 12:07:40 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:07:40 ERROR Retrying order execution......1
+2022-11-28 12:07:43 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:07:43 ERROR Retrying order execution......2
+2022-11-28 12:07:47 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:07:47 ERROR Retrying order execution......3
+2022-11-28 12:09:13 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:09:13 ERROR Retrying order execution......1
+2022-11-28 12:09:16 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:09:16 ERROR Retrying order execution......2
+2022-11-28 12:09:20 ERROR ERROR while buy order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-28 12:09:20 ERROR Retrying order execution......3
+2022-11-28 12:26:46 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:26:46 ERROR Retrying order execution......1
+2022-11-28 12:26:49 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:26:49 ERROR Retrying order execution......2
+2022-11-28 12:26:53 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:26:53 ERROR Retrying order execution......3
+2022-11-28 12:28:29 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:28:29 ERROR Retrying order execution......1
+2022-11-28 12:28:32 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:28:32 ERROR Retrying order execution......2
+2022-11-28 12:28:36 ERROR ERROR while buy order of ticker TQQQ with account balance undefined. Platform alpaca
+2022-11-28 12:28:36 ERROR Retrying order execution......3
+2022-11-28 12:29:51 INFO SELLTQQQ at Ticker Price: 21.7799. Ticker Qty: 16.298 at Transaction Value: 354.987 on alpaca
+2022-11-29 14:31:24 ERROR ERROR while sell order of ticker TQQQ with account balance 498.98. Platform alpaca
+2022-11-29 14:31:24 ERROR Retrying order execution......1
+2022-11-29 14:31:27 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-29 14:31:27 ERROR Retrying order execution......2
+2022-11-29 14:31:31 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
+2022-11-29 14:31:31 ERROR Retrying order execution......3
+2022-11-30 14:31:17 ERROR ERROR while buy order of ticker TQQQ with account balance 809.616. Platform alpaca
+2022-11-30 14:31:17 ERROR Retrying order execution......1
+2022-11-30 14:31:21 ERROR ERROR while buy order of ticker TQQQ with account balance 809.616. Platform alpaca
+2022-11-30 14:31:21 ERROR Retrying order execution......2
+2022-11-30 14:31:24 ERROR ERROR while buy order of ticker TQQQ with account balance 809.616. Platform alpaca
+2022-11-30 14:31:24 ERROR Retrying order execution......3
+2022-12-01 16:31:12 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 16:31:12 ERROR Retrying order execution......1
+2022-12-01 16:31:15 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 16:31:15 ERROR Retrying order execution......2
+2022-12-01 16:31:19 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 16:31:19 ERROR Retrying order execution......3
+2022-12-01 17:01:12 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 17:01:12 ERROR Retrying order execution......1
+2022-12-01 17:01:16 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 17:01:16 ERROR Retrying order execution......2
+2022-12-01 17:01:19 ERROR ERROR while buy order of ticker ETHUSD with account balance 438.7373. Platform binance
+2022-12-01 17:01:19 ERROR Retrying order execution......3
+2022-12-01 17:31:10 INFO BUYETHUSD at Ticker Price: 1278.74. Ticker Qty: 0.343 at Transaction Value: 438.7373 on binance
+2022-12-07 03:01:10 INFO SELLETHUSD at Ticker Price: 1223.05. Ticker Qty: 0.341 at Transaction Value: 437.5719 on binance
+2022-12-08 07:01:10 INFO BUYETHUSD at Ticker Price: 1240.13. Ticker Qty: 0.335 at Transaction Value: 415.5926 on binance
+2022-12-16 21:01:11 INFO SELLETHUSD at Ticker Price: 1169.76. Ticker Qty: 1.067 at Transaction Value: 414.1132 on binance
+2023-01-02 02:31:10 INFO BUYETHUSD at Ticker Price: 1213.09. Ticker Qty: 1.027 at Transaction Value: 1246.8838 on binance
+2023-01-19 09:31:23 INFO SELLTQQQ at Ticker Price: 19.1395. Ticker Qty: 38.716 at Transaction Value: 741.022 on alpaca
+2023-01-28 08:31:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 08:31:17 ERROR Retrying order execution......1
+2023-01-28 08:31:21 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 08:31:21 ERROR Retrying order execution......2
+2023-01-28 08:31:24 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 08:31:24 ERROR Retrying order execution......3
+2023-01-28 09:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 09:01:10 ERROR Retrying order execution......1
+2023-01-28 09:01:14 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 09:01:14 ERROR Retrying order execution......2
+2023-01-28 09:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 09:01:17 ERROR Retrying order execution......3
+2023-01-28 10:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 10:01:10 ERROR Retrying order execution......1
+2023-01-28 10:01:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 10:01:13 ERROR Retrying order execution......2
+2023-01-28 10:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 10:01:17 ERROR Retrying order execution......3
+2023-01-28 11:01:19 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 11:01:19 ERROR Retrying order execution......1
+2023-01-28 11:01:23 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 11:01:23 ERROR Retrying order execution......2
+2023-01-28 11:01:26 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 11:01:26 ERROR Retrying order execution......3
+2023-01-28 12:01:21 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 12:01:21 ERROR Retrying order execution......1
+2023-01-28 12:01:24 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 12:01:24 ERROR Retrying order execution......2
+2023-01-28 12:01:28 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 12:01:28 ERROR Retrying order execution......3
+2023-01-28 13:01:11 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:01:11 ERROR Retrying order execution......1
+2023-01-28 13:01:23 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:01:23 ERROR Retrying order execution......2
+2023-01-28 13:01:27 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:01:27 ERROR Retrying order execution......3
+2023-01-28 13:31:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:31:10 ERROR Retrying order execution......1
+2023-01-28 13:31:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:31:13 ERROR Retrying order execution......2
+2023-01-28 13:31:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 13:31:17 ERROR Retrying order execution......3
+2023-01-28 14:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:01:10 ERROR Retrying order execution......1
+2023-01-28 14:01:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:01:13 ERROR Retrying order execution......2
+2023-01-28 14:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:01:17 ERROR Retrying order execution......3
+2023-01-28 14:31:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:31:10 ERROR Retrying order execution......1
+2023-01-28 14:31:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:31:13 ERROR Retrying order execution......2
+2023-01-28 14:31:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 14:31:17 ERROR Retrying order execution......3
+2023-01-28 15:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:01:10 ERROR Retrying order execution......1
+2023-01-28 15:01:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:01:13 ERROR Retrying order execution......2
+2023-01-28 15:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:01:17 ERROR Retrying order execution......3
+2023-01-28 15:31:11 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:31:11 ERROR Retrying order execution......1
+2023-01-28 15:31:14 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:31:14 ERROR Retrying order execution......2
+2023-01-28 15:31:18 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 15:31:18 ERROR Retrying order execution......3
+2023-01-28 16:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 16:01:10 ERROR Retrying order execution......1
+2023-01-28 16:01:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 16:01:13 ERROR Retrying order execution......2
+2023-01-28 16:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 16:01:17 ERROR Retrying order execution......3
+2023-01-28 17:01:11 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:01:11 ERROR Retrying order execution......1
+2023-01-28 17:01:14 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:01:14 ERROR Retrying order execution......2
+2023-01-28 17:01:18 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:01:18 ERROR Retrying order execution......3
+2023-01-28 17:11:09 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:11:09 ERROR Retrying order execution......1
+2023-01-28 17:11:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:11:13 ERROR Retrying order execution......2
+2023-01-28 17:11:16 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:11:16 ERROR Retrying order execution......3
+2023-01-28 17:31:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:31:10 ERROR Retrying order execution......1
+2023-01-28 17:31:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:31:13 ERROR Retrying order execution......2
+2023-01-28 17:31:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 17:31:17 ERROR Retrying order execution......3
+2023-01-28 19:01:10 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 19:01:10 ERROR Retrying order execution......1
+2023-01-28 19:01:14 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 19:01:14 ERROR Retrying order execution......2
+2023-01-28 19:01:17 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-01-28 19:01:17 ERROR Retrying order execution......3
