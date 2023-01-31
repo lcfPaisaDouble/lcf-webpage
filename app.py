@@ -156,10 +156,10 @@ def stock_details(ticker_name, indicator):
     # Plot ticker and transaction data as per ticker selected
     fig = px.line(data, x="Time", y="Close")
     fig.add_trace(go.Scatter(x=transaction_buy["Time"], y=transaction_buy["Price"],
-                             mode='markers', marker=dict(size=10, color='#FF0000'),
+                             mode='markers', marker=dict(size=10, color='#00FF00'),
                              name='buy'))
     fig.add_trace(go.Scatter(x=transaction_sell["Time"], y=transaction_sell["Price"],
-                             mode='markers', marker=dict(size=10, color='#00FF00'),
+                             mode='markers', marker=dict(size=10, color='#FF0000'),
                              name='sell'))
     # Return empty if indicator is empty
     # Graph won't be plotted if fig is not returned before the next for loop
