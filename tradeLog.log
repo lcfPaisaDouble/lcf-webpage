@@ -274,3 +274,9 @@
 2023-02-01 13:31:16 ERROR Retrying order execution......2
 2023-02-01 13:31:20 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
 2023-02-01 13:31:20 ERROR Retrying order execution......3
+2023-02-01 14:01:13 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-02-01 14:01:13 ERROR Retrying order execution......1
+2023-02-01 14:01:16 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-02-01 14:01:16 ERROR Retrying order execution......2
+2023-02-01 14:01:20 ERROR ERROR while sell order of ticker ETHUSD with account balance 1245.0329. Platform binance
+2023-02-01 14:01:20 ERROR Retrying order execution......3
