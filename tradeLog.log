@@ -295,3 +295,4 @@
 2023-02-10 10:31:36 ERROR Retrying order execution......2
 2023-02-10 10:31:39 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
 2023-02-10 10:31:39 ERROR Retrying order execution......3
+2023-02-13 09:31:23 INFO BUY TQQQ at Ticker Price: 24.02. Ticker Qty: 38.848 at Transaction Value: 933.135 on alpaca
