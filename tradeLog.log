@@ -302,3 +302,8 @@
 2023-02-15 14:31:22 ERROR Retrying order execution......2
 2023-02-15 14:31:26 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
 2023-02-15 14:31:26 ERROR Retrying order execution......3
+2023-02-15 15:01:21 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
+2023-02-15 15:01:21 ERROR Retrying order execution......1
+2023-02-15 15:01:24 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
+2023-02-15 15:01:24 ERROR Retrying order execution......2
+2023-02-15 15:01:27 INFO BUY ETHUSD at Ticker Price: 1626.39. Ticker Qty: 1.049 at Transaction Value: 1706.28594000 on binance
