@@ -296,3 +296,9 @@
 2023-02-10 10:31:39 ERROR ERROR while sell order of ticker TQQQ with account balance None. Platform alpaca
 2023-02-10 10:31:39 ERROR Retrying order execution......3
 2023-02-13 09:31:23 INFO BUY TQQQ at Ticker Price: 24.02. Ticker Qty: 38.848 at Transaction Value: 933.135 on alpaca
+2023-02-15 14:31:19 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
+2023-02-15 14:31:19 ERROR Retrying order execution......1
+2023-02-15 14:31:22 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
+2023-02-15 14:31:22 ERROR Retrying order execution......2
+2023-02-15 14:31:26 ERROR ERROR while buy order of ticker ETHUSD with account balance 1706.28594000. Platform binance
+2023-02-15 14:31:26 ERROR Retrying order execution......3
