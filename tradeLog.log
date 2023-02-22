@@ -313,3 +313,4 @@
 2023-02-21 11:31:27 ERROR Retrying order execution......2
 2023-02-21 11:31:30 ERROR ERROR while sell order of ticker TQQQ with account balance 933.136. Platform alpaca
 2023-02-21 11:31:30 ERROR Retrying order execution......3
+2023-02-22 10:31:33 INFO SELL ETHUSD at Ticker Price: 1610.14. Ticker Qty: 1.049 at Transaction Value: 1704.73968000 on binance
