@@ -322,3 +322,4 @@
 2023-02-22 19:01:18 ERROR Retrying order execution......3
 2023-02-22 19:31:10 INFO BUY ETHUSD at Ticker Price: 1641.61. Ticker Qty: 1.027 at Transaction Value: 1687.21712000 on binance
 2023-02-24 11:01:11 INFO SELL ETHUSD at Ticker Price: 1599.75. Ticker Qty: 1.027 at Transaction Value: 1684.61518000 on binance
+2023-03-01 01:31:10 INFO BUY ETHUSD at Ticker Price: 1652.69. Ticker Qty: 0.992 at Transaction Value: 1640.15827200 on binance
