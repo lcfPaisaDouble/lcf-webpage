@@ -339,3 +339,4 @@
 2023-03-10 12:01:22 ERROR Retrying order execution......3
 2023-03-12 18:31:10 INFO BUY ETHUSD at Ticker Price: 1588.9. Ticker Qty: 0.979 at Transaction Value: 1556.24667000 on binance
 2023-03-16 12:01:24 INFO BUY TQQQ at Ticker Price: 24.5658. Ticker Qty: 31.493 at Transaction Value: 773.661 on alpaca
+2023-03-27 11:01:11 INFO SELL ETHUSD at Ticker Price: 1709.03. Ticker Qty: 0.979 at Transaction Value: 1555.67624100 on binance
