@@ -341,3 +341,4 @@
 2023-03-16 12:01:24 INFO BUY TQQQ at Ticker Price: 24.5658. Ticker Qty: 31.493 at Transaction Value: 773.661 on alpaca
 2023-03-27 11:01:11 INFO SELL ETHUSD at Ticker Price: 1709.03. Ticker Qty: 0.979 at Transaction Value: 1555.67624100 on binance
 2023-03-28 15:01:11 INFO BUY ETHUSD at Ticker Price: 1778.15. Ticker Qty: 0.939 at Transaction Value: 1671.08904000 on binance
+2023-04-19 20:01:10 INFO SELL ETHUSD at Ticker Price: 1937.67. Ticker Qty: 0.939 at Transaction Value: 1668.28928000 on binance
